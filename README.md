@@ -28,6 +28,9 @@ void swap_LE_BE_by_pointer(uint32_t &value) {
 }
 
 void swap_LE_BE_by_bitwise(uint32_t &value) {
-    value = (value << 24 | value >> 24) | (((value & 0x00FF0000) >> 8) | ((value & 0x0000FF00) << 8));
+    value = ((value & 0x000000FF) << 24) | 
+            ((value & 0x0000FF00) << 8) | 
+            ((value & 0x00FF0000) >> 8) |
+            ((value & 0xFF000000) >> 24);
 }
 ```
