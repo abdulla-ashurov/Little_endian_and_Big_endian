@@ -1,4 +1,4 @@
-#include <iostream>
+#include "../include/LE_system.hpp"
 #include "catch_amalgamated.hpp"
 
 TEST_CASE("swap little endian to big endian [by pointer]") {
