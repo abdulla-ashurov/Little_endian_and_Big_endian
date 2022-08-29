@@ -1,4 +1,0 @@
-/Users/abdullaashurov/Desktop/Little_endian_and_Big_endian/build/CMakeFiles/LE_system.dir
-/Users/abdullaashurov/Desktop/Little_endian_and_Big_endian/build/CMakeFiles/main.dir
-/Users/abdullaashurov/Desktop/Little_endian_and_Big_endian/build/CMakeFiles/edit_cache.dir
-/Users/abdullaashurov/Desktop/Little_endian_and_Big_endian/build/CMakeFiles/rebuild_cache.dir

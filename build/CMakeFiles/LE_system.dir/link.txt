@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLE_system.a CMakeFiles/LE_system.dir/src/LE_system.cpp.o
-/usr/bin/ranlib libLE_system.a
